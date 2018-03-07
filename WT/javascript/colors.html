@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style> 
+  
+</style>
+</head>
+  <body>
+    <input type="radio" name="color" id="red"  onclick="myPar('red')" ><label for="red"> red</label>
+  <input type="radio" name="color" id="green"  onclick="myPar('green')" ><label for="green"> green</label>
+  <input type="radio" name="color" id="blue"  onclick="myPar('blue')" ><label for="blue"> blue</label>
+    <div id="par">
+      <P>Google is hiring interns through Internshala in 18 different profiles for summer of 2018.
+      Many of these profiles have multiple positions.
+     
+      and many other everyday utilities and still continues to do so. </P>
+    </div>
+    
+   
+    <script>
+      function myPar(col)
+      {
+        document.getElementById("par").style.backgroundColor=col;
+        document.getElementById("par").style.color="white";  
+      }
+    </script>
+    
+  </body>
+</html>

@@ -1,0 +1,54 @@
+header{
+  background-image:url("bg.jpg");
+  background-size:100%;
+  text-align:center;
+  border-top:solid #EA1E63 5px;
+}
+
+header li{
+  display:inline;
+  
+}
+.one{
+  padding:10px 0px 10px 200px;
+}
+
+.two{
+  background-color:#EA1E63;
+  color:white;
+  padding:10px 0px 10px 200px;
+}
+
+.three{
+  padding:10px 0px 10px 200px;
+}
+
+footer{
+   background-color:#444444;
+   color:white;
+   padding:10px 0px 10px 200px;
+   
+}
+
+a{
+   color:DodgerBlue;
+   text-decoration:none;
+   border-bottom:2px solid DodgerBlue;
+
+}
+
+#new{
+  background-color:#2F4F4F;
+  background-size:100%;
+  background-repeat:no-repeat;
+  padding:20px;
+  opacity:0.8;
+  color:white;
+
+}
+
+#f{
+  text-decoration:none;
+  color:DodgerBlue;
+}
+

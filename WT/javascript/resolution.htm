@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <body onresize="reSl()">
+    <h1>Resolution Details </h1>
+    <p id="det"></p>
+    <script>
+      function reSl()
+      {
+        var x=window.outerWidth;
+        var y=window.outerHeight;
+        document.getElementById("det").innerHTML="width : " + x + "  height : " + y;
+      }
+    </script>
+  </body>
+</html>
