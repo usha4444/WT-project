@@ -1,0 +1,35 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="equipment.xsl"?>
+<Equipment_info>
+<lab_equipment>
+<Equipment_Name>Industrial Safety Goggles</Equipment_Name>
+<Equipment_type>laboratory-equipment</Equipment_type>
+<Model_name>North by Honeywell </Model_name>
+<serial_number>Protector 300™ Safety Goggles</serial_number>
+<Description>Not wearing safety goggles puts you in danger of eye irritation and possibly blindness in the case of an accident</Description>
+<Availability>Safety goggles can be seen in bio chemistry lab.</Availability>
+<Condition>If you are working with chemicals, you must wear goggles.</Condition>
+<contact_info>
+<name>Sherlock</name>
+<address>lb colony hyderabad</address>
+<phone>9494922424</phone>
+<email>sherlocklab@gmail.com</email>
+</contact_info>
+</lab_equipment>
+<lab_equipment>
+<Equipment_Name>Test tube</Equipment_Name>
+<Equipment_type>laboratory-equipment</Equipment_type>
+<Model_name>North by Honeywell</Model_name>
+<serial_number>LER2454</serial_number>
+<Description>A test tube is a glass tube with one end open and the other end closed.They are primarily used for qualitative assessment and comparison.</Description>
+<Availability>Test tubes can be seen in bio chemistry lab</Availability>
+<Condition>Never heat a capped test tube.</Condition>
+<contact_info>
+<name>James</name>
+<address>lb colony hyderabad</address>
+<phone>9494922425</phone>
+<email>Jameslab@gmail.com</email>
+</contact_info>
+</lab_equipment>
+</Equipment_info>
+

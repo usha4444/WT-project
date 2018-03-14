@@ -1,0 +1,18 @@
+
+<?xml version="1.0"  encoding="UTF-8"?>
+<!DOCTYPE Equipment_info [
+<!ELEMENT Equipment_info (lab_equipment+)>
+<!ELEMENT lab_equipment(Equipment_Name,Equipment_type,Model_name,serial_number,Description,Availability,Condition)>
+<!ELEMENT Equipment_Name(#PCDATA)>
+<!ELEMENT Equipment_type(#PCDATA)>
+<!ELEMENT Model_name (#PCDATA)>
+<!ELEMENT serial_number (#PCDATA)>
+<!ELEMENT Description(#PCDATA)>
+<!ELEMENT Availability(#PCDATA)>
+<!ELEMENT Condition(#PCDATA)>
+<!ELEMENT contact_info (name,address,phone,email)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+]>
